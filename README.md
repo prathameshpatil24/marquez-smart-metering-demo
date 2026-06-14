@@ -3,7 +3,7 @@
 
 > **Applied Programming Exam** — FOM Hochschule Essen  
 > **Topic:** Marquez (Data Lineage Platform, Observability Layer)  
-> **Student:** Prathamesh Patil (Nr. 28, Mat. Nr. 838598)  
+> **Student:** Prathamesh Patil (Mat. Nr. 838598)  
 > **Program:** M.Sc. Big Data & Business Analytics  
 > **Semester:** Summer Semester 2026
 
